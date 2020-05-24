@@ -1,6 +1,6 @@
 # kickstarter-analysis
 
-Analyzing kickstarter data
+Analyzing Kickstarter Data
 - Three conclusions
     - May, June, and July are the most successful months for theater kickstarters.
     - There’s a seasonal increase for both successful and failed theater kickstarters that starts in April, but the increase is much sharper for those that are successful.
@@ -10,5 +10,3 @@ Analyzing kickstarter data
 - Suggested additional tables of graphs
     - Louise’s play Fever is based in the United States, so giving additional context that is specific to success/failure rates for the USA specifically and not just all countries would be helpful.
     - Adding an additional graph and tables for how the # of backers correlates with success or failure would also help Louise get closer to making a more informed decision overall.
-
-Excel Kickstarter Challenge
