@@ -1,6 +1,6 @@
 # kickstarter-analysis
 
-Analyzing kickstarter data
+Analyzing Kickstarter Data
 - Three conclusions
     - May, June, and July are the most successful months for theater kickstarters.
     - There’s a seasonal increase for both successful and failed theater kickstarters that starts in April, but the increase is much sharper for those that are successful.
